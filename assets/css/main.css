@@ -1,5 +1,4 @@
-/*
- * Author: Carlos Alvarez
+/* Built using a modified theme originally created by Carlos Alvarez
  * URL: http://alvarez.is
  *
  * Project Name: Minimal - Free Bootstrap 3 Theme
@@ -79,7 +78,7 @@ a:after {
    ========================================================================== */
 
 #headerwrap {
-	background: url(../img/header-bg.jpg) no-repeat center top;
+	background: url(../img/salida.jpg) no-repeat center top;
 	margin-top: -10px;
 	padding-top:20px;
 	text-align:center;
